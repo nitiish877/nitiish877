@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hey there !
 
-<!--
-**nitiish877/nitiish877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ai models , data analysis and fine tuning 
+- 🌱 I’m currently learning advance fine tuning , NLP , Deep Learning , pytorch and model training
+- 🛠️ I’m looking for help with Large Language Models (LLMs) , Deep Learning , neural network.
+- 💬 Ask me about data analysis , pandas , numpy and visual plotting (matplotlib/seaborn) model trainig and evalutaion.
+- 😎 Code and enjoy...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- seaborn
+- Scikit-learn
+- Git
+- GitHub
+- Jupyter Notebook
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitiish877&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitiish877&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nitiish877&theme=github-dark)
