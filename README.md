@@ -9,20 +9,14 @@
 
 ### 🛠️ Tech Stack
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- seaborn
-- Scikit-learn
-- Git
-- GitHub
-- Jupyter Notebook
+- <p> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,sklearn,git,github,jupyter" /> </p>
 
-## 📊 GitHub Stats
+ ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitiish877&show_icons=true&theme=github_dark)
+<p> <img height="170" src="https://github-readme-stats.vercel.app/api?username=nitiish877show_icons=true&theme=github_dark&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitiish877&layout=compact&theme=github_dark&hide_border=true" /> </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitiish877&layout=compact&theme=github_dark)
+<p> <img src="https://streak-stats.demolab.com?user=nitiish877&theme=github-dark&hide_border=true" /> </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nitiish877&theme=github-dark)
+### 📈 Contribution Graph
+
+<p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitiish877&theme=github-dark&hide_border=true" /> </p>
