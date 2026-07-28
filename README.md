@@ -58,7 +58,7 @@ Fine-Tuning
 
 ---
 
-# ⚙️ Tech Arsenal
+# ⚙️ Tech Stack 🛠️
 
 ### 💻 Programming
 
@@ -68,8 +68,29 @@ Fine-Tuning
 
 ### 📊 Data Science
 
-<p>
-<img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" style=" width:10 px ; height:10 px" />
+<p align="left">
+  <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg"
+       alt="NumPy"
+       width="70"
+       height="70"
+       style="margin-right:15px;"/>
+
+  <img src="https://t4.ftcdn.net/jpg/06/62/75/19/240_F_662751973_USPJ5vrdRjgvNZGUUMTY1uLViCcc6SSG.jpg"
+       alt="Pandas"
+       width="70"
+       height="70"
+       style="margin-right:15px;"/>
+
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg"
+       alt="Matplotlib"
+       width="70"
+       height="70"
+       style="margin-right:15px;"/>
+
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"
+       alt="Seaborn"
+       width="70"
+       height="70"/>
 </p>
 
 ### 🤖 AI & Machine Learning
