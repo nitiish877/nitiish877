@@ -1,20 +1,143 @@
-## 👋 Hey there 
+<div align="center">
 
-- 🔭 I’m currently working on ai models , data analysis and fine tuning 
-- 🌱 I’m currently learning advance fine tuning , NLP , Deep Learning , pytorch and model training
-- 🛠️ I’m looking for help with Large Language Models (LLMs) , Deep Learning , neural network.
-- 💬 Ask me about data analysis , pandas , numpy and visual plotting (matplotlib/seaborn) model trainig and evalutaion.
-- 😎 Code and enjoy...
+# 👋 Hi, I'm Nitish Vishwakarma
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Machine+Learning+Explorer;Deep+Learning+Enthusiast;Fine-Tuning+Large+Language+Models;Building+Intelligent+AI+Systems;Transforming+Data+Into+Insights;Always+Learning+Something+New" alt="Typing SVG" />
 
-### 🛠️ Tech Stack
+### 🚀 Building Intelligent Systems with AI, Machine Learning & Data Science
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/> 
-    <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" width="45" height="45"/>
-    <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="45" height="45"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+# ⚡ Current Focus
+
+- 🤖 Building AI & Machine Learning Models
+- 🧠 Fine-Tuning Large Language Models
+- 📊 Data Analysis & Data Visualization
+- ⚙️ End-to-End Machine Learning Pipelines
+- 🚀 Solving Real-World Problems with AI
+
+---
+
+# 🧬 Research & Learning
+
+- Large Language Models (LLMs)
+- Advanced Fine-Tuning
+- Deep Learning
+- Neural Networks
+- Natural Language Processing (NLP)
+- PyTorch
+- Transformers
+- Model Optimization
+
+---
+
+# 💡 Knowledge Domain
+
+```python
+Languages      : Python
+
+Data Analysis  : Pandas • NumPy
+
+Visualization  : Matplotlib • Seaborn
+
+Machine Learning :
+Scikit-Learn
+Model Training
+Model Evaluation
+Feature Engineering
+
+Currently Exploring :
+Deep Learning
+PyTorch
+LLMs
+NLP
+Fine-Tuning
+```
+
+---
+
+# ⚙️ Tech Arsenal
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
-  
 
- ### 📊 GitHub Stats
+### 📊 Data Science
 
-<p> <img src="https://streak-stats.demolab.com?user=nitiish877&theme=github-dark&hide_border=true" /> </p>
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+### 🛠 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+🌟 AI Projects
+
+📊 Data Analysis Projects
+
+🧠 Machine Learning Models
+
+📈 Data Visualization Dashboards
+
+⚡ Real-World Problem Solving
+
+---
+
+# 🌍 Open Source Journey
+
+> Learning by Building • Building by Solving • Solving with AI
+
+---
+
+# 🤝 Open for Collaboration
+
+- AI Projects
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- Open Source
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Code • Learn • Build • Repeat"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
+
+</div>
