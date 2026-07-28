@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nitish Vishwakarma
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Machine+Learning+Explorer;Deep+Learning+Enthusiast;Fine-Tuning+Large+Language+Models;Building+Intelligent+AI+Systems;Transforming+Data+Into+Insights;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=#70F729FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Machine+Learning+Explorer;Deep+Learning+Enthusiast;Fine-Tuning+Large+Language+Models;Building+Intelligent+AI+Systems;Transforming+Data+Into+Insights;Always+Learning+Something+New" alt="Typing SVG" />
 
 ### 🚀 Building Intelligent Systems with AI, Machine Learning & Data Science
 
