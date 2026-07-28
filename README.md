@@ -286,17 +286,7 @@ Data Analysis
 </tr>
 </table>
 
----
 
-# 💭 Coding Philosophy
-
-> **"Data is more than numbers—it tells a story."**
-
-> **"Every model teaches something, even when it fails."**
-
-> **"The best way to learn AI is to build real-world projects."**
-
----
 
 # 🌍 My Journey
 
@@ -327,7 +317,7 @@ AI Engineering 🚀
 
 ---
 
-# 🤝 Open for Collaboration
+# 🤝 Collaborate with Me
 
 ✔ Artificial Intelligence
 
@@ -343,33 +333,9 @@ AI Engineering 🚀
 
 ---
 
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
-## 🚀 Thanks for Visiting My Profile!
 
 ### *Learning • Building • Innovating*
 
