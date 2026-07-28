@@ -118,21 +118,6 @@ Fine-Tuning
 
 ---
 
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
 
 <div align="center">
 
