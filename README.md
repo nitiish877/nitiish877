@@ -91,12 +91,12 @@ Build intelligent AI solutions for real-world problems.
 ## 📊 Data Science
 
 <p align="left">
-  <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="NumPy" width="48" height="48"/>
-  <img src="https://t4.ftcdn.net/jpg/06/62/75/19/240_F_662751973_USPJ5vrdRjgvNZGUUMTY1uLViCcc6SSG.jpg" alt="Pandas" width="48" height="48"/>
+  <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="NumPy" width="48" height="48" style="vertical-align:middle;"/>
+  <img src="https://t4.ftcdn.net/jpg/06/62/75/19/240_F_662751973_USPJ5vrdRjgvNZGUUMTY1uLViCcc6SSG.jpg" alt="Pandas" width="48" height="48" style="vertical-align:middle;"/>
 
-  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" width="48" height="48"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" width="48" height="48" style="vertical-align:middle;"/>
 
-  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="48" height="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="48" height="48" style="vertical-align:middle;"/>
 </p>
 
 ---
@@ -104,9 +104,9 @@ Build intelligent AI solutions for real-world problems.
 ## 🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48"/ style="vertical-align:middle;">
   
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" style="vertical-align:middle;"/>
 </p>
 
 ---
@@ -114,20 +114,20 @@ Build intelligent AI solutions for real-world problems.
 ## 🛠 Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" style="vertical-align:middle;"/>
   
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" style="vertical-align:middle;"/>
  
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" style="vertical-align:middle;"/>
 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-colab-icon.png" alt="Google Colab" width="48" height="48"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-colab-icon.png" alt="Google Colab" width="48" height="48" style="vertical-align:middle;"/>
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" style="vertical-align:middle;"/>
 
 </div>
 
