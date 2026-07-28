@@ -107,13 +107,13 @@ Fine-Tuning
 
 ---
 
-# 🌍 Open Source Journey
+# 🌍 My Journey
 
 > Learning by Building • Building by Solving • Solving with AI
 
 ---
 
-# 🤝 Open for Collaboration
+# 🤝 Collaborate with Me
 
 - AI Projects
 - Machine Learning
