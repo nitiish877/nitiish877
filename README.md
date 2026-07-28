@@ -69,28 +69,13 @@ Fine-Tuning
 ### 📊 Data Science
 
 <p align="left">
-  <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg"
-       alt="NumPy"
-       width="70"
-       height="70"
-       style="margin-right:15px;"/>
-
-  <img src="https://t4.ftcdn.net/jpg/06/62/75/19/240_F_662751973_USPJ5vrdRjgvNZGUUMTY1uLViCcc6SSG.jpg"
-       alt="Pandas"
-       width="70"
-       height="70"
-       style="margin-right:15px;"/>
-
-  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg"
-       alt="Matplotlib"
-       width="70"
-       height="70"
-       style="margin-right:15px;"/>
-
-  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"
-       alt="Seaborn"
-       width="70"
-       height="70"/>
+  <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="NumPy" width="70" height="70" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://t4.ftcdn.net/jpg/06/62/75/19/240_F_662751973_USPJ5vrdRjgvNZGUUMTY1uLViCcc6SSG.jpg" alt="Pandas" width="70" height="70" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" width="70" height="70" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="70" height="70" />
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -103,6 +88,7 @@ Fine-Tuning
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+   &nbsp;&nbsp;&nbsp; <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-colab-icon.png" alt="Colab width="65" height="70"/>
 </p>
 
 ---
