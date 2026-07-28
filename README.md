@@ -69,7 +69,7 @@ Fine-Tuning
 ### 📊 Data Science
 
 <p>
-<img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" />
+<img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" style=" width:10 px ; height:10 px" />
 </p>
 
 ### 🤖 AI & Machine Learning
