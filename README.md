@@ -63,41 +63,22 @@ Build intelligent AI solutions for real-world problems.
 ---
 
 # 💡 Knowledge Domain
+- Data Analyis
+- Visualizatoin
+- Machine learning
+- Model Training
+- Model Evaluation
 
-```python
-class Nitish:
+# Exploring 🔍
+- "Deep Learning",
+-    "PyTorch",
+-    "NLP",
+-   "LLMs",
+-    "Fine-Tuning"
 
-    language = ["Python"]
 
-    data_analysis = [
-        "NumPy",
-        "Pandas"
-    ]
 
-    visualization = [
-        "Matplotlib",
-        "Seaborn"
-    ]
-
-    machine_learning = [
-        "Scikit-Learn",
-        "Model Training",
-        "Feature Engineering",
-        "Model Evaluation"
-    ]
-
-    currently_exploring = [
-        "Deep Learning",
-        "PyTorch",
-        "LLMs",
-        "NLP",
-        "Fine-Tuning"
-    ]
-```
-
----
-
-# ⚙️ Tech Arsenal
+# ⚙️ Tech Stack
 
 ## 🐍 Programming
 
