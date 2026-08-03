@@ -8,7 +8,7 @@
 
 *"Learning continuously • Building fearlessly • Improving relentlessly"*
 
-<img src="assets/gemini-divider.gif" width="100%">
+<img src="gemini-divider.gif" width="100%" alt="Animated Gradient Divider"/>
 
 </div>
 
