@@ -8,7 +8,7 @@
 
 *"Learning continuously • Building fearlessly • Improving relentlessly"*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated Gradient Divider"/>
 
 </div>
 
