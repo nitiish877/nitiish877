@@ -1,122 +1,307 @@
 <div align="center">
 
-# 👋 Hi, I'm Nitish Vishwakarma
+# 👋 Hi, I'm Nitish Vishwakarma, CM saab
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=B2D959&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Machine+Learning+Explorer;Deep+Learning+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=B2D959&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Machine+Learning+Explorer;Deep+Learning+Enthusiast;Fine-Tuning+Large+Language+Models;Building+Intelligent+AI+Systems;Transforming+Data+Into+Insights;Always+Learning+Something+New" alt="Typing SVG" />
 
-### Building intelligent systems with AI
+### 🚀 Building Intelligent Systems with AI
 
-*Learning continuously • Building fearlessly • Improving relentlessly*
+*"Learning continuously • Building fearlessly • Improving relentlessly"*
+
+<img src="assets/gemini-divider.gif" width="100%">
 
 </div>
 
 ---
 
-## 💻 About Me
+# 💻 AI Terminal
 
 ```bash
 $ whoami
+
 Nitish Vishwakarma
 
 $ role
+
 AI Engineer in Progress
 
 $ currently_learning
-• Machine Learning
-• Deep Learning  
-• Natural Language Processing
-• Large Language Models (LLMs)
+
+Machine Learning
+Deep Learning
+Natural Language Processing
+Large Language Models
 
 $ mission
-Build intelligent AI solutions for real-world problems
+
+Build intelligent AI solutions for real-world problems.
 ```
 
 ---
 
-## ⚡ What I Do
+# ⚡ Current Focus
 
 - 🤖 Building AI & Machine Learning Models
-- 🧠 Deep Learning & Neural Networks
+- 🧠 Fine-Tuning Large Language Models
 - 📊 Data Analysis & Visualization
-- ⚙️ Developing ML Pipelines
-- 🚀 Solving Real-World Problems with AI
+- ⚙️ Developing End-to-End ML Pipelines
+- 🚀 Applying AI to Real-World Problems
 
 ---
 
-## 🛠 Tech Stack
+# 🧬 Research & Learning
 
-**Languages:** Python
-
-**Data Science:** NumPy, Pandas, Matplotlib, Seaborn
-
-**ML & Deep Learning:** Scikit-learn, PyTorch, TensorFlow
-
-**Tools:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
+- 🧠 Large Language Models (LLMs)
+- 🔥 Advanced Fine-Tuning
+- 🤖 Deep Learning
+- ⚡ Neural Networks
+- 💬 Natural Language Processing (NLP)
+- 🚀 PyTorch
+- 🔄 Transformer Architecture
+- 📈 Model Optimization
 
 ---
 
-## 📈 Learning Path
+# 💡 Knowledge Domain
+- Data Analyis
+- Visualizatoin
+- Machine learning
+- Model Training
+- Model Evaluation
+
+# Exploring 🔍
+- "Deep Learning",
+-    "PyTorch",
+-    "NLP",
+-   "LLMs",
+-    "Fine-Tuning"
+
+
+
+# ⚙️ Tech Stack
+
+## 🐍 Programming
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="65"/>
+</p>
+
+---
+
+## 📊 Data Science
+
+<p align="left">
+  <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="NumPy" width="48" height="48" style="vertical-align:middle;"/>
+  <img src="https://t4.ftcdn.net/jpg/06/62/75/19/240_F_662751973_USPJ5vrdRjgvNZGUUMTY1uLViCcc6SSG.jpg" alt="Pandas" width="48" height="48" style="vertical-align:middle;"/>
+
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" width="48" height="48" style="vertical-align:middle;"/>
+
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="48" height="48" style="vertical-align:middle;"/>
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48"/ style="vertical-align:middle;">
+  
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" style="vertical-align:middle;"/>
+</p>
+
+---
+
+## 🛠 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" style="vertical-align:middle;"/>
+  
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" style="vertical-align:middle;"/>
+ 
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" style="vertical-align:middle;"/>
+
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-colab-icon.png" alt="Google Colab" width="48" height="48" style="vertical-align:middle;"/>
+</p>
+
+---
 
 <div align="center">
 
-```
-Python
-   ↓
-NumPy & Pandas
-   ↓
-Data Analysis
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-Large Language Models
-   ↓
-AI Engineering 🚀
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" style="vertical-align:middle;"/>
 
 </div>
 
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Models
+
+Building intelligent AI systems using modern Machine Learning and Deep Learning techniques.
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Analysis
+
+Transforming raw datasets into meaningful insights through analysis and visualization.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Machine Learning
+
+Developing predictive models, feature engineering, model evaluation and optimization.
+
+</td>
+
+<td width="50%">
+
+### 📈 Data Visualization
+
+Creating interactive and informative visualizations using Matplotlib and Seaborn.
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🎯 Areas of Interest
+# 🗺️ Learning Roadmap
 
-- **Machine Learning:** Supervised & Unsupervised Learning, Model Evaluation
-- **Deep Learning:** Neural Networks, PyTorch, TensorFlow
-- **NLP:** Natural Language Processing, Transformers
-- **LLMs:** Fine-Tuning, Prompt Engineering
-- **Data Science:** Feature Engineering, EDA, Visualization
+```text
+                    AI Engineer
+                         ▲
+                         │
+                 Large Language Models
+                         ▲
+                         │
+            Natural Language Processing
+                         ▲
+                         │
+                 Deep Learning
+                         ▲
+                         │
+               Machine Learning
+                         ▲
+                         │
+      NumPy ─ Pandas ─ Matplotlib ─ Seaborn
+                         ▲
+                         │
+                      Python
+```
 
 ---
 
-## 💡 Let's Collaborate
+# 📚 Currently Exploring
 
-I'm interested in:
-- ✨ Artificial Intelligence & Machine Learning
-- ✨ Deep Learning Projects
-- ✨ Large Language Models
-- ✨ Data Analysis & Visualization
-- ✨ Open Source Contributions
+<table>
+<tr>
+
+<td align="center">
+
+🧠
+
+### Artificial Intelligence
+
+LLMs
+
+Fine-Tuning
+
+Transformers
+
+</td>
+
+<td align="center">
+
+⚡
+
+### Deep Learning
+
+PyTorch
+
+Neural Networks
+
+Optimization
+
+</td>
+
+<td align="center">
+
+📊
+
+### Data Science
+
+Feature Engineering
+
+Visualization
+
+Data Analysis
+
+</td>
+
+</tr>
+</table>
+
+
+
+# 🌍 My Journey
+
+```text
+Started with Curiosity
+          │
+          ▼
+Python Programming
+          │
+          ▼
+NumPy & Pandas
+          │
+          ▼
+Data Analysis
+          │
+          ▼
+Machine Learning
+          │
+          ▼
+Deep Learning
+          │
+          ▼
+Large Language Models
+          │
+          ▼
+AI Engineering 🚀
+```
 
 ---
+
+# 🤝 Collaborate with Me
+
+✔ Artificial Intelligence
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ Large Language Models
+
+✔ Data Analysis
+
+✔ Open Source Projects
+
+---
+
 
 <div align="center">
 
-<svg width="100%" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="animGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00F7FF;stop-opacity:1">
-        <animate attributeName="offset" from="-100%" to="100%" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" style="stop-color:#6C63FF;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#8A2BE2;stop-opacity:1">
-        <animate attributeName="offset" from="0%" to="200%" dur="3s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="25" width="100%" height="2" fill="url(#animGradient)"/>
-</svg>
 
-**Let's connect and build something amazing!**
+### *Learning • Building • Innovating*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6C63FF,100:8A2BE2&height=180&section=footer"/>
 
 </div>
